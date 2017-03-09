@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/flaviohenriquealmeida/alurapic#readme",
   "dependencies": {
+    "body-parser": "^1.14.1",
     "consign": "^0.1.2",
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "mongoose": "^4.3.1"
   }
 }
